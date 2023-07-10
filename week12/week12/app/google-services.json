@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424136594570",
+    "firebase_url": "https://fitweek8-e1160-default-rtdb.firebaseio.com",
+    "project_id": "fitweek8-e1160",
+    "storage_bucket": "fitweek8-e1160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424136594570:android:6f2f33457035bb192dc973",
+        "android_client_info": {
+          "package_name": "com.fit2081.myfirstproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424136594570-jcbgdip7ventseb45m4f2qu6dmkrpkvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCckRrnEtf61ou13y6S3b4r2EL-0KXSbJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424136594570-jcbgdip7ventseb45m4f2qu6dmkrpkvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
